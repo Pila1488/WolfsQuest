@@ -1,2 +1,2 @@
 # WolfsQuest
-Simple game 2d wolf simulator. Wolf will grow and be stronger with progress.
+Простая игра-симулятор волка 2D. Волк будет расти и становиться сильнее по мере развития. НА ДАННЫЙ МОМЕНТ НЕ ДОДЕЛАНА.
